@@ -1,0 +1,124 @@
+[
+    {
+        "id": 1,
+        "category": "clock",
+        "title": "Garmin Epix Pro 51mm Slate Gray/Black Band",
+        "image": "https://image.alza.cz/products/PPepixpro2gb3/PPepixpro2gb3.jpg?width=500&height=500",
+        "price": "21 990,-"
+    },
+    {
+        "id": 2,
+        "category": "clock",
+
+        "title": "Ultrahuman Ring Air Aster Black vel. 9",
+        "image": "https://image.alza.cz/products/UHRAab9/UHRAab9.jpg?width=500&height=500",
+        "price": "9 490,-"
+    },
+    {
+        "id": 3,
+        "category": "clock",
+
+        "title": "Huawei Watch GT 4 41 mm White Leather Strap",
+        "image": "https://image.alza.cz/products/HUWGT41a/HUWGT41a.jpg?width=500&height=500",
+        "price": "5 999,-"
+    },
+    {
+        "id": 4,
+        "category": "clock",
+
+        "title": "Apple Watch SE 40mm Hvězdně bílý hliník s hvězdně bílým sportovním řemínkem - S/M",
+        "image": "https://image.alza.cz/products/JA040se1/JA040se1.jpg?width=500&height=500",
+        "price": "6 999,-"
+    },
+    {
+        "id": 5,
+        "category": "notebook",
+
+        "title": "Asus Vivobook 15 OLED X1505ZA-OLED020W Black",
+        "image": "https://image.alza.cz/products/NA563z100/NA563z100.jpg?width=500&height=500",
+        "price": "15 990,-"
+    },
+    {
+        "id": 6,
+        "category": "notebook",
+
+        "title": "ASUS Vivobook 16 M1605YA-MB048W Cool Silver",
+        "image": "https://image.alza.cz/products/NA579q0r6/NA579q0r6.jpg?width=500&height=500",
+        "price": "10 990,-"
+    },
+    {
+        "id": 7,
+        "category": "notebook",
+
+        "title": "MacBook Air 13 M1 CZ Vesmírně Šedý 2020",
+        "image": "https://image.alza.cz/products/NL244a1a/NL244a1a.jpg?width=500&height=500",
+        "price": "23 490,-"
+    },
+    {
+        "id": 8,
+        "category": "notebook",
+
+        "title": "GIGABYTE G5 KF",
+        "image": "https://image.alza.cz/products/NGB080q2/NGB080q2.jpg?width=500&height=500",
+        "price": "25 990,-"
+    },
+    {
+        "id": 9,
+        "category": "xerox",
+
+        "title": "Xerox WorkCentre 3025BI",
+        "image": "https://image.alza.cz/products/PX600q1/PX600q1.jpg?width=500&height=500",
+        "price": "3 549,-"
+    },
+    {
+        "id": 10,
+        "category": "xerox",
+
+        "title": "Xerox Phaser 3020BI",
+        "image": "https://image.alza.cz/products/PX406d30/PX406d30.jpg?width=500&height=500",
+        "price": "2 239,-"
+    },
+    {
+        "id": 11,
+        "category": "xerox",
+
+        "title": "Canon i-SENSYS MF832Cdw",
+        "image": "https://image.alza.cz/products/PC323m2a/PC323m2a.jpg?width=500&height=500",
+        "price": "21 490,-"
+    },
+    {
+        "id": 12,
+        "category": "xerox",
+        "title": "Xerox B235DNI",
+        "image": "https://image.alza.cz/products/PX620c4i/PX620c4i.jpg?width=500&height=500",
+        "price": "5 299,-"
+    },
+    {
+        "id": 13,
+        "category": "game",
+        "title": "PlayStation VR2 + Horizon Call of the Mountain",
+        "image": "https://image.alza.cz/products/MSX005VR2b1/MSX005VR2b1.jpg?width=500&height=500",
+        "price": "14 990,-"
+    },
+    {
+        "id": 14,
+        "category": "game",
+        "title": "PlayStation VR2",
+        "image": "https://image.alza.cz/products/MSX005VR2/MSX005VR2.jpg?width=500&height=500",
+        "price": "13 990,-"
+    },
+    {
+        "id": 15,
+        "category": "game",
+        "title": "HTC Vive Pro 2 Full Kit",
+        "image": "https://image.alza.cz/products/CES9a003ja3c/CES9a003ja3c-01.jpg?width=500&height=500",
+        "price": "24 990,-"
+    },
+    {
+        "id": 16,
+        "category": "game",
+        "title": "Meta Quest 2 (128GB)",
+        "image": "https://image.alza.cz/products/OC002b2w/OC002b2w.jpg?width=500&height=500",
+        "price": "9 990,-"
+    }
+]

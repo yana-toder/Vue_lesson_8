@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "category": "game",
+        "title": "Gaming",
+        "image": "https://image.alza.cz/Foto/category/40/18872471_2.png"
+    },
+    {
+        "id": 2,
+        "category": "notebook",
+        "title": "Počítače a notebooky",
+        "image": "https://image.alza.cz/Foto/category/40/18842920_3.png"
+    },
+    {
+        "id": 3,
+        "category": "clock",
+        "title": "Chytré hodinky",
+        "image": "https://image.alza.cz/Foto/category/40/18854785_2.png"
+    },
+    {
+        "id": 4,
+        "category": "xerox",
+        "title": "Tiskárny a skenery",
+        "image": "https://image.alza.cz/Foto/category/40/18851089_2.png"
+    }
+]
